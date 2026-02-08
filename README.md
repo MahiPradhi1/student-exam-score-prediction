@@ -14,6 +14,7 @@ This project helps understand the complete machine learning workflow in a simple
   - Hours Studied
 - Target:
   - Exam Score
+-Dataset Size: 20 student records with 5 attributes.
 
 ## Type of ML Problem
 Regression
